@@ -1,7 +1,7 @@
 name: Deploy Vite Site
 on:
   push:
-    branches: ["main"] # Make sure your branch is named main
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
